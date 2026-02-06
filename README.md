@@ -1,4 +1,4 @@
-# Termux Ricing: Minimalist Arch-Style
+# Termux Ricing: Minimalist
 
 A clean, high-performance ricing setup for Termux. Designed for system administrators and terminal enthusiasts who prefer a minimalist, Arch-inspired environment.
 
