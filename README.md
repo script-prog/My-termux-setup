@@ -7,9 +7,10 @@ A clean, high-performance ricing setup for Termux. Designed for system administr
 
 ## 🛠️ Installation
 
-1. Update your Termux and install
+1. Update your Termux
    ```bash
    pkg update && pkg upgrade
+2. install
   ```bash
   cd ricing
   
